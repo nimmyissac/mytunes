@@ -1,0 +1,15 @@
+body{
+	background-color: red;
+}
+.row{
+	padding: 20px;
+	background-color: lightblue;
+	font-size: 20px;
+	font: italic;
+}
+.queue{
+	padding: 20px;
+	background-color: lightgreen;
+	font-size: 20px;
+	font: italic;
+}
